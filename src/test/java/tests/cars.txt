@@ -6,3 +6,5 @@ Mercedes s600
 BMW 3
 Mazda 3
 Kia Optima
+Bentley
+McLaren
