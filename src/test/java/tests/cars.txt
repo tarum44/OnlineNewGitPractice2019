@@ -8,3 +8,5 @@ Mazda 3
 Kia Optima
 Bentley
 McLaren
+Lincoln
+Mazda
