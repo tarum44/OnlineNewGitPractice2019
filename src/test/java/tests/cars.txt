@@ -10,3 +10,10 @@ Bentley
 McLaren
 Lincoln
 Mazda
+
+
+// git commit -a -m "added a new car" -- add and commit
+// git push - send our code to github
+// git pull - to get updates from github
+// git branch - to see list of branches
+// git branch <name> - create a new branch, branch out from the current branch -master
